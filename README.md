@@ -16,7 +16,7 @@ The insights shown in this are done by using python Libraries like pandas,numpy,
 
 Trend of winning matches by team with first batting
 
-
+![download (3)](https://user-images.githubusercontent.com/67683259/107239377-17c63080-6a29-11eb-84ef-3bea53c244e2.png)
 
 ## Conclusion of this Project
 As my analysis Conclusion is most winning chances are more by choosing **first batting** i.e toss won and choose batting when team won toss.
