@@ -16,7 +16,7 @@ The insights shown in this are done by using python Libraries like pandas,numpy,
 
 Teams won matches in season 2008 to 2019
 
-
+![download (1)](https://user-images.githubusercontent.com/67683259/107240049-c79b9e00-6a29-11eb-92d2-2d34630fec9d.png)
 
 Trend of winning matches by team with first batting
 
